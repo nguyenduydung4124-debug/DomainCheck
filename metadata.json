@@ -1,0 +1,6 @@
+{
+  "name": "Domain Checker",
+  "description": "Ứng dụng kiểm tra, đối chiếu tên miền từ cấu hình crawler JSON với danh sách Whitelist tên miền.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
